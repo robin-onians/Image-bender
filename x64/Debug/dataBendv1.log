@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\robin\Desktop\Uni notes\research proj\dataBendv1\Source.cpp(124,8): warning C4101: 'Path': unreferenced local variable
+C:\Users\robin\Desktop\Uni notes\research proj\dataBendv1\Source.cpp(133,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  dataBendv1.vcxproj -> C:\Users\robin\Desktop\Uni notes\research proj\dataBendv1\x64\Debug\dataBendv1.exe
